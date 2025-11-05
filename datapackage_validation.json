@@ -1,11 +1,11 @@
 {
   "version": "4.16.6",
-  "time": 0.02,
+  "time": 0.021,
   "errors": [],
   "tasks": [
     {
       "resource": {
-        "description": "Dados de média de permanência hospitalar por unidade Fhemig a partir de 2025.",
+        "description": "Dados de média de permanência hospitalar por unidade FHEMIG a partir de 2025.",
         "dialect": {
           "delimiter": ";"
         },
